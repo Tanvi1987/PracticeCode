@@ -1,1 +1,4 @@
-Exercise problems from Martin Fowlers Refactor will go here
+Exercise problems 
+
+Book : Refactoring: Improving the Design of Existing Code
+Author : Martin Fowler
