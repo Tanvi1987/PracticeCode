@@ -1,1 +1,4 @@
-Exercise problems from Scott Meyers Effective C++ will go here
+Exercise problems 
+
+Book : Effective C++: 55 Specific Ways to Improve Your Programs and Designs
+Author : Scott Meyers
