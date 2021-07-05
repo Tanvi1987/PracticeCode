@@ -1,0 +1,1 @@
+Exercise problems from Scott Meyers Effective C++ will go here
